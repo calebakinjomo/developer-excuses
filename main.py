@@ -1,7 +1,7 @@
-"""One funny single-line developer excuse for when code breaks in production.
+"""Developer Excuses — one funny single-line excuse for when code breaks in production.
 
-Writes the excuse to $MAKEFUN_OUTPUT_DIR/entry.txt (default /output)
-and prints it to stdout. Python 3 standard library only.
+Prints the excuse to stdout and writes it to $MAKEFUN_OUTPUT_DIR/entry.txt
+(default /output). Python 3 standard library only.
 """
 
 import os
